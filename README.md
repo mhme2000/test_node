@@ -1,0 +1,1 @@
+Aplicação produzida em NodeJS, Express, Nodemon, Axios. Dentre outras libs e frameworks.
