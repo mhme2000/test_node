@@ -1,5 +1,6 @@
+//Importando ORM do Banco de Dados MongoDB
 const mongoose = require('mongoose')
-
+//Instanciando o model Product em uma constante Product
 const Product = mongoose.model('Product')
 
 module.exports = {
